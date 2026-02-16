@@ -1,0 +1,8 @@
+# Generated output — these are created by Ralph during a run
+candidates.csv
+
+# Iteration debug artifacts
+iteration*/
+
+# Claude Code local settings
+.claude/
